@@ -5,7 +5,7 @@
 
 Hello, I'm Chester Zhengbin Wang! 👋
 
-I am a Master of Business Analytics with strong intrests in recently facisinating development of AI. I am also passionate about music and love all kinds of things video game related.
+I am a Master of Business Analytics with strong intrests in recent facisinating development of AI. I am also passionate about music and love all kinds of things video game related.
 
 <!-- END: Introduction -->
 
